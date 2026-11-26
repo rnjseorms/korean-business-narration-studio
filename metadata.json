@@ -1,0 +1,6 @@
+{
+  "name": "Korean Business Narration Studio",
+  "description": "전문적이고 차분하며 신뢰감 있는 비즈니스 컨설턴트 톤의 한국어 남성 TTS 음성 생성 및 파일 다운로드 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
